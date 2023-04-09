@@ -17,6 +17,24 @@
          "name": "Volume Down ",
          "command": "{'Raw Data':12582929,'len':48,'Protocol':18,'Command':17,'Address':0,'Bits':24,'Protocol Type':'RC6'}",
          "id": 285387646710525173
+      },
+      {
+         "group": "Bedroom",
+         "name": "Power ON",
+         "command": "{'Raw Data':12583004,'len':48,'Protocol':18,'Command':92,'Address':0,'Bits':24,'Protocol Type':'RC6'}",
+         "id": 259262810429162663
+      },
+      {
+         "group": "Tata Sky",
+         "name": "Press 1",
+         "command": "{'Raw Data':12582913,'len':50,'Protocol':18,'Command':1,'Address':0,'Bits':24,'Protocol Type':'RC6'}",
+         "id": 607843139776006702
+      },
+      {
+         "group": "Limbo Room - TV",
+         "name": "Start",
+         "command": "{'Raw Data':12582924,'len':50,'Protocol':18,'Command':12,'Address':0,'Bits':24,'Protocol Type':'RC6'}",
+         "id": 252372704783792935
       }
    ]
 }
