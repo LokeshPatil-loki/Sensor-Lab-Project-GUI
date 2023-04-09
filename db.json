@@ -1,0 +1,22 @@
+{
+   "data": [
+      {
+         "group": "Tata Sky",
+         "name": "Power ON",
+         "command": "{'Raw Data':12582924,'len':50,'Protocol':18,'Command':12,'Address':0,'Bits':24,'Protocol Type':'RC6'}",
+         "id": 832494801716339553
+      },
+      {
+         "group": "Tata Sky",
+         "name": "Volume Up",
+         "command": "{'Raw Data':12582928,'len':50,'Protocol':18,'Command':16,'Address':0,'Bits':24,'Protocol Type':'RC6'}",
+         "id": 284894681609421761
+      },
+      {
+         "group": "Tata Sky",
+         "name": "Volume Down ",
+         "command": "{'Raw Data':12582929,'len':48,'Protocol':18,'Command':17,'Address':0,'Bits':24,'Protocol Type':'RC6'}",
+         "id": 285387646710525173
+      }
+   ]
+}
